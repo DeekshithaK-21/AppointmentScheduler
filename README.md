@@ -7,8 +7,8 @@ Built using **HTML, CSS, JSP, and MySQL**, and deployed on **Apache Tomcat**.
 
 ## 🚀 Features
 
-- 📅 Book, edit, and cancel appointments  
-- 👤 Simple login and registration pages  
+- 📅 Book, and view appointments  
+- 👤 Simple registration pages  
 - 💾 Data storage using MySQL database  
 - 🎨 Responsive design using CSS  
 - ⚙️ Easy to deploy on Tomcat
